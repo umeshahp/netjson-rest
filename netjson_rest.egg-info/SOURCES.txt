@@ -1,0 +1,8 @@
+setup.py
+netjsonFlaskRest/__init__.py
+netjsonFlaskRest/flaskRestAPI.py
+netjson_rest.egg-info/PKG-INFO
+netjson_rest.egg-info/SOURCES.txt
+netjson_rest.egg-info/dependency_links.txt
+netjson_rest.egg-info/requires.txt
+netjson_rest.egg-info/top_level.txt

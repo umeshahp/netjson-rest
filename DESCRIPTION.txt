@@ -1,0 +1,42 @@
+mygmap
+======
+
+A simple python wrapper for Google Maps API.
+Use it to get the formatted address or co-ordinates of any location.
+
+The code is Python 2, but Python 3 compatible.
+
+Installation
+------------
+
+Fast install:
+
+::
+
+    pip install -i https://test.pypi.org/simple/ netjson-rest
+
+For a manual install get this package:
+
+::
+
+    wget git@github.com:umeshahp/netjson-rest.git
+    unzip master.zip
+    rm master.zip
+    cd netjson-rest
+
+Install the package:
+
+::
+
+    python setup.py install
+
+Example
+--------
+To run
+python flaskRestAPI.py
+
+
+
+
+Usage:
+#
