@@ -27,9 +27,9 @@ CLASSIFIERS = [
 
 # calling the setup function
 setup(name='netjson-rest',
-      version='1.0.0',
-      description='A rest API to convert openwrt config to json and vice versa using flask',
-      long_description=long_description,
+      version='1.0.1',
+      description='Rest API to convert openwrt config to json and vice versa using flask',
+      #long_description=long_description,
       url='https://github.com/umeshahp/netjson-rest',
       author='Umesha HP',
       author_email='hpu89@yahoo.com',
